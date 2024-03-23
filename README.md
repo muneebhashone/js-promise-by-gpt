@@ -27,9 +27,11 @@ cd custom-promise
 node promise.js
 ```
 
-import CustomPromise from './path-to-CustomPromise';
+```js
+import CustomPromise from "./path-to-CustomPromise";
 
 // Example usage
 const promise = new CustomPromise((resolve, reject) => {
-// Asynchronous task here
+  // Asynchronous task here
 });
+```
