@@ -1,4 +1,4 @@
-# CustomPromise - An AI-Powered JavaScript Experiment
+# CustomPromise - JavaScript Promise API Implementation by ChatGPT 4
 
 ## Overview
 
